@@ -16,3 +16,6 @@ import matplotlib.pyplot as plt
 
 #加入GUI
 from tkinter import *
+
+
+'''YOU have a good idea, go ahead!'''
